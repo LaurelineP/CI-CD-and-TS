@@ -1,4 +1,5 @@
-![Tests CI status](https://github.com/LaurelineP/CI-CD-and-TS/actions/workflows/ci.yml/badge.svg)
+![Tests on CI status](https://github.com/LaurelineP/CI-CD-and-TS/actions/workflows/ci.yml/badge.svg)
+![Build CD status](https://github.com/LaurelineP/CI-CD-and-TS/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
